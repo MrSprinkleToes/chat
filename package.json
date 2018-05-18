@@ -4,3 +4,6 @@
   "description": "my first socket.io app",
   "dependencies": "express,socket.io"
 }
+"scripts": {
+    "start": "index.js"
+}
